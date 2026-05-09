@@ -1,0 +1,63 @@
+.bg-grey{
+    background-color: #012231;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: white;
+    background: #80AD47;
+    padding: 20px !important;
+}
+.nav-link {
+    padding: 20px !important;
+    color: #80AD47;
+}
+h4{
+    color: #78AD47;
+}
+.bg-green{
+    background-color:#80AD47;
+}
+.bg-3{
+    background-color: #E2E4E5;
+}
+.hero-carousel img{
+    height: 700px;
+    object-fit: cover;
+}
+.food-carousel img{
+    height: 300px;
+    object-fit: cover;
+}
+.food-carousel{
+    position: relative;
+}
+
+.carousel-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    z-index: 10;
+
+    color: black;
+    text-align: center;
+}
+
+.carousel-text h1{
+    font-size: 50px;
+    
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.gachchan li{
+    border-bottom: 1px solid;
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+.bg-darkgreen{
+    background-color: #00131C;
+}
